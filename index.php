@@ -6,7 +6,7 @@
     <title>website penjualan online</title>
 </head>
 <body>
-    <h1>selamat datang di website penjualan online toko gueee</h1>
+    <h1>selamat datang di website penjualan online toko princess</h1>
     <br>
     <br>
     <h4>MENU</h4>
